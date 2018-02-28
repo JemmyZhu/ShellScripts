@@ -5,6 +5,7 @@
 # config option 1: the folder need be watched
 folder="$HOME/Downloads"
 # config option 2: files to keep in the folder mentioned above
+# REMINDS: 'touch' cmd can avoid file from being deleted, much better than add filename to this list
 ignorefiles="andtest.sh backup.sh"
 
 
